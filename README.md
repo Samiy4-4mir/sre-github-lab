@@ -124,45 +124,47 @@ prepared
 
 \## Nonfunctional requirements
 
-\- NFR-01: For 100 stored tasks, the task list shall appear within
+\- NFR-01:Order punching is done within 2 sec even when customers are more then 5.
 
-2 seconds in at least 95 of 100 trials on the agreed test device.
-
-\- NFR-02: All task actions shall be operable using a keyboard
-
-alone, verified against each documented task workflow.
+\- NFR-02: All recommendations are available when 100 customers open system.
 
 \## Acceptance criteria
 
-\- FR-01: Given the title \&quot;Read Chapter 1\&quot;, saving a new task
+\- FR-01: Seasonal items are clearly separated, reducing confusion
 
-causes that title to appear in the task list.
+between summer and winter menus.
 
-\- FR-02: With two saved tasks, opening the list shows both titles.
+\- FR-02: Staff can see item availability about 70% of time before completing the
 
-\- FR-03: Marking an incomplete task complete changes its displayed
+order, reducing situations where customers are informed
 
-status to Complete.
+too late.
+
+\- FR-03: Both customers and staff report improved satisfaction
+
+with the ordering process.
 
 \## Assumptions and open questions
 
-\- Assumption A-01: \[State a proposed assumption to validate.]
+\- Assumption A-01: Order unavailability appears when customer places order.
 
-\- Question Q-01: \[Ask about an unresolved rule or stakeholder need.]
+\- Question Q-01: How much problem do face when order punching becomes late?
 
 \- Question Q-02: Which device and environment will test NFR-01?
 
+
+
 \## Project status and viewing
 
-Documentation only. Application implementation has not started.
-
-Clone this repository and open README.md in a Markdown viewer,
-
-or read the rendered file on GitHub.
+Vision document is on word. Project is underprocess.
 
 \## Author
 
-\[Student name and approved course identifier]
+Samiya Aamir bsef25m537
+
+Mazia Ch bsef25m531
+
+Meerab Shahid bsef25m541
 
 \## Contributing
 
